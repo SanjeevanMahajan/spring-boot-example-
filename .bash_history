@@ -119,3 +119,55 @@ cd test-spring/
 ls
 cd ..
 ls
+git add .
+git commit -m 'first push'
+git push 
+git push --set-upstream origin master
+ls
+cd test-spring/
+ls
+git remote add origin https://sanjeevanmahajan05@bitbucket.org/sanjeevanmahajan05/test-spring.git
+git push -u origin --all
+git remote add origin https://sanjeevanmahajan05@bitbucket.org/sanjeevanmahajan05/test-spring.git
+git remote rm origin
+git remote add origin https://sanjeevanmahajan05@bitbucket.org/sanjeevanmahajan05/test-spring.git
+ls
+git push -u origin --all
+ls
+git add spring-boot-lazy-init-example/
+git commit -m 'first push'
+git push -u origin --all
+LS
+cd
+ls
+mv test-spring/ .
+ls
+cd test-spring/* .
+mv test-spring/* .
+ls
+rm -rf test-spring/
+ls
+cd spring-boot-lazy-init-example/
+ls
+cd 
+ls
+clear
+git remote add origin https://github.com/SanjeevanMahajan
+git rm origin
+git remote rm origin
+git remote add origin https://github.com/SanjeevanMahajan
+ls
+git remote rm origin
+ls
+cd spring-boot-lazy-init-example/
+ls
+git remote add origin https://github.com/SanjeevanMahajan/spring-boot-example-.git
+git remote rm origin
+git remote add origin https://github.com/SanjeevanMahajan/spring-boot-example-.git
+ls
+git add .
+git commit -m "first push"
+cd ..
+git remote rm origin
+git remote rm origin 
+git remote add origin https://github.com/SanjeevanMahajan/spring-boot-example-.git
